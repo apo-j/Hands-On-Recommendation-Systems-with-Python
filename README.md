@@ -4,6 +4,9 @@
 
 This is the code repository for [Hands-On Recommendation Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/hands-recommendation-systems-python?utm_source=github&utm_medium=repository&utm_campaign=9781788993753), published by Packt.
 
+# The dataset files are available here
+- The movie dataset https://www.kaggle.com/rounakbanik/the-movies-dataset
+- The movielens 100k dataset https://www.kaggle.com/prajitdatta/movielens-100k-dataset/data  
 **Start building powerful and personalized, recommendation engines with Python**
 
 ## What is this book about?
